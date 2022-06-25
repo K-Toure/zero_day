@@ -1,1 +1,1 @@
-Lets dig into Vagrant today
+Lets dig in to Vagrant
